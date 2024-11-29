@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+int a,b,s,input;
+printf("Please enter the values of a and b");
+scanf("%d%d",&a,&b):
+printf("1:addition,2:subtraction,3:multiplication,4:division");
+
